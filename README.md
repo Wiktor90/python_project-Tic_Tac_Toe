@@ -12,3 +12,5 @@ This code simply shows how to use syntax elements like:
 * **functions**
 * **loops** ( for & while)
 * **flags** (bool values)
+* **list comprehension**
+* **if statements**
